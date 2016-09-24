@@ -1,0 +1,2 @@
+# TeamSpace
+We need help to develop a prototype web portal called “Scholarly” would be an online profile catalog of minorities college students that are crowded-sourcing grants and scholarship funds for their education. It will used as an platform where we have the general public, private donors, and foundations offer scholarship funding to qualified minority students of different majors but with an emphasis on STEM majors.
