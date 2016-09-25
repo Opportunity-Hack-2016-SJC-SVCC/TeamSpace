@@ -1,2 +1,43 @@
-# TeamSpace
-We need help to develop a prototype web portal called “Scholarly” would be an online profile catalog of minorities college students that are crowded-sourcing grants and scholarship funds for their education. It will used as an platform where we have the general public, private donors, and foundations offer scholarship funding to qualified minority students of different majors but with an emphasis on STEM majors.
+# Star Track
+
+A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
+
+## Previewing the app
+
+### Requirements
+
+- PhoneGap CLI: `npm install -g phonegap`
+
+### Clone
+
+```
+git clone https://github.com/phonegap/phonegap-app-star-track
+cd phonegap-app-star-track
+phonegap serve
+```
+
+### Template
+
+Alternatively, you can use the app as a template for the PhoneGap CLI:
+
+```
+phonegap create StarTrack --template phonegap-app-star-track
+cd StarTrack
+phonegap serve
+```
+
+### View
+
+You can now view the app either in a browser at`localhost:3000`, or using the [PhoneGap Developer App](http://app.phonegap.com/) on your device(s).
+
+
+Of course, all the other PhoneGap CLI commands work as expected.
+
+```
+phonegap platform add ios
+phonegap run ios
+cordova platform add android
+cordova run android --device
+```
+
+etc...

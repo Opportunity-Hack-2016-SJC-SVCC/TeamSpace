@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "834DE246B25DEE30B5327E6A77138BC825FE33FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "834DE246B25DEE30B5327E6A77138BC825FE33FC" : 9223372036854775807,
+    "2CE0653D17DFBF2E307D184FE98D5B3CC9DAD83A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "49B353A2-B3EF-4497-8139-B4A2BD1F473E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "834DE246B25DEE30B5327E6A77138BC825FE33FC" : "firstGen2\/",
+    "2CE0653D17DFBF2E307D184FE98D5B3CC9DAD83A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hello World",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "platforms\/ios\/Hello World.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dpark-sports\/firstgen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2CE0653D17DFBF2E307D184FE98D5B3CC9DAD83A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dpark-sports\/firstGen2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "834DE246B25DEE30B5327E6A77138BC825FE33FC"
+    }
+  ]
+}
